@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>MemoAppli.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>MemoAppliProduction.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2E72DDC7244FDF5500B065AD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2E72DDDD244FDF5700B065AD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2E72DDE8244FDF5800B065AD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2E72DE00244FEA3400B065AD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
