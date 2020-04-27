@@ -18,6 +18,7 @@ class MemoBodyTextView: UITextView {
         let spacer = UIBarButtonItem(barButtonSystemItem: .flexibleSpace, target: self, action: nil)
         let commitBtn = UIBarButtonItem(barButtonSystemItem: .done, target: self, action: #selector(didTapCommitBtn))
         toolBar.items = [spacer,commitBtn]
+        self.text = text
         font = UIFont.systemFont(ofSize: 20)
         textColor = .black
         backgroundColor = .white

@@ -93,7 +93,6 @@ extension MemoListView: UITableViewDataSource {
                 tableView.reloadData()
             })
         }
-//        updateItem.backgroundColor = UIColor.init(red: 101, green: 132, blue: 255, alpha: 1)
         let swipeActions = UISwipeActionsConfiguration(actions: [contextItem, updateItem])
         return swipeActions
     }
